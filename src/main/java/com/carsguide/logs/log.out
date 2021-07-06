@@ -1,0 +1,64 @@
+2021-07-06 18:07:813 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-06 18:07:139 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-06 18:07:988 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-06 18:07:274 INFO  HomePage :26 - MouseHover to buy+sell tab : [[ChromeDriver: chrome on WINDOWS (fc6ae37b685710c2bd4e41581e766d53)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-07-06 18:07:157 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-06 18:07:603 INFO  HomePage :26 - MouseHover to buy+sell tab : [[ChromeDriver: chrome on WINDOWS (9cbb2359a1d720e4b84903e4edb87ab3)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-07-06 18:07:814 INFO  HomePage :30 - Click to SearchCars : [[ChromeDriver: chrome on WINDOWS (9cbb2359a1d720e4b84903e4edb87ab3)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-07-06 18:07:916 INFO  NewUsedCarSearchPage :28 - Verify Text, New & Used Car Search : [[ChromeDriver: chrome on WINDOWS (9cbb2359a1d720e4b84903e4edb87ab3)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2021-07-06 18:07:503 INFO  NewUsedCarSearchPage :34 - Select Make of the Car : [[ChromeDriver: chrome on WINDOWS (9cbb2359a1d720e4b84903e4edb87ab3)] -> xpath: //select[@id='makes']]
+2021-07-06 18:07:941 INFO  NewUsedCarSearchPage :39 - Select Model of the Car : [[ChromeDriver: chrome on WINDOWS (9cbb2359a1d720e4b84903e4edb87ab3)] -> xpath: //select[@id='models']]
+2021-07-06 18:07:336 INFO  NewUsedCarSearchPage :44 - Select Location  : [[ChromeDriver: chrome on WINDOWS (9cbb2359a1d720e4b84903e4edb87ab3)] -> xpath: //select[@id='locations']]
+2021-07-06 18:07:725 INFO  NewUsedCarSearchPage :49 - Select Price(Max) : [[ChromeDriver: chrome on WINDOWS (9cbb2359a1d720e4b84903e4edb87ab3)] -> xpath: //select[@id='priceTo']]
+2021-07-06 18:07:542 INFO  NewUsedCarSearchPage :53 - Click on, Find My Next Car button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-07-06 18:07:592 INFO  AllNewandUsedCars :19 - Verify Text : [[ChromeDriver: chrome on WINDOWS (9cbb2359a1d720e4b84903e4edb87ab3)] -> xpath: //h1[@class = 'listing-search-title']]
+2021-07-06 18:07:928 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-06 18:07:307 INFO  HomePage :26 - MouseHover to buy+sell tab : [[ChromeDriver: chrome on WINDOWS (ac62ad5fb75a6ba216bf504e71472a21)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-07-06 18:07:688 INFO  HomePage :30 - Click to SearchCars : [[ChromeDriver: chrome on WINDOWS (ac62ad5fb75a6ba216bf504e71472a21)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-07-06 18:07:776 INFO  NewUsedCarSearchPage :28 - Verify Text, New & Used Car Search : [[ChromeDriver: chrome on WINDOWS (ac62ad5fb75a6ba216bf504e71472a21)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2021-07-06 18:07:562 INFO  NewUsedCarSearchPage :34 - Select Make of the Car : [[ChromeDriver: chrome on WINDOWS (ac62ad5fb75a6ba216bf504e71472a21)] -> xpath: //select[@id='makes']]
+2021-07-06 18:07:15 INFO  NewUsedCarSearchPage :39 - Select Model of the Car : [[ChromeDriver: chrome on WINDOWS (ac62ad5fb75a6ba216bf504e71472a21)] -> xpath: //select[@id='models']]
+2021-07-06 18:07:413 INFO  NewUsedCarSearchPage :44 - Select Location  : [[ChromeDriver: chrome on WINDOWS (ac62ad5fb75a6ba216bf504e71472a21)] -> xpath: //select[@id='locations']]
+2021-07-06 18:07:806 INFO  NewUsedCarSearchPage :49 - Select Price(Max) : [[ChromeDriver: chrome on WINDOWS (ac62ad5fb75a6ba216bf504e71472a21)] -> xpath: //select[@id='priceTo']]
+2021-07-06 18:07:751 INFO  NewUsedCarSearchPage :53 - Click on, Find My Next Car button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-07-06 18:07:840 INFO  AllNewandUsedCars :19 - Verify Text : [[ChromeDriver: chrome on WINDOWS (ac62ad5fb75a6ba216bf504e71472a21)] -> xpath: //h1[@class = 'listing-search-title']]
+2021-07-06 18:07:181 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-06 18:07:255 INFO  HomePage :26 - MouseHover to buy+sell tab : [[ChromeDriver: chrome on WINDOWS (3e0d87eed16ea1199143894f902eeac7)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-07-06 18:07:189 INFO  HomePage :30 - Click to SearchCars : [[ChromeDriver: chrome on WINDOWS (3e0d87eed16ea1199143894f902eeac7)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-07-06 18:07:225 INFO  NewUsedCarSearchPage :28 - Verify Text, New & Used Car Search : [[ChromeDriver: chrome on WINDOWS (3e0d87eed16ea1199143894f902eeac7)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2021-07-06 18:07:938 INFO  NewUsedCarSearchPage :34 - Select Make of the Car : [[ChromeDriver: chrome on WINDOWS (3e0d87eed16ea1199143894f902eeac7)] -> xpath: //select[@id='makes']]
+2021-07-06 18:07:378 INFO  NewUsedCarSearchPage :39 - Select Model of the Car : [[ChromeDriver: chrome on WINDOWS (3e0d87eed16ea1199143894f902eeac7)] -> xpath: //select[@id='models']]
+2021-07-06 18:07:781 INFO  NewUsedCarSearchPage :44 - Select Location  : [[ChromeDriver: chrome on WINDOWS (3e0d87eed16ea1199143894f902eeac7)] -> xpath: //select[@id='locations']]
+2021-07-06 18:07:160 INFO  NewUsedCarSearchPage :49 - Select Price(Max) : [[ChromeDriver: chrome on WINDOWS (3e0d87eed16ea1199143894f902eeac7)] -> xpath: //select[@id='priceTo']]
+2021-07-06 18:07:421 INFO  NewUsedCarSearchPage :53 - Click on, Find My Next Car button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-07-06 18:07:522 INFO  AllNewandUsedCars :19 - Verify Text : [[ChromeDriver: chrome on WINDOWS (3e0d87eed16ea1199143894f902eeac7)] -> xpath: //h1[@class = 'listing-search-title']]
+2021-07-06 18:07:431 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-06 18:07:567 INFO  HomePage :26 - MouseHover to buy+sell tab : [[ChromeDriver: chrome on WINDOWS (56bbff63e2259d2412fb9bdf8b9bd822)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-07-06 18:07:246 INFO  HomePage :30 - Click to SearchCars : [[ChromeDriver: chrome on WINDOWS (56bbff63e2259d2412fb9bdf8b9bd822)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-07-06 18:07:284 INFO  NewUsedCarSearchPage :28 - Verify Text, New & Used Car Search : [[ChromeDriver: chrome on WINDOWS (56bbff63e2259d2412fb9bdf8b9bd822)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2021-07-06 18:07:649 INFO  NewUsedCarSearchPage :34 - Select Make of the Car : [[ChromeDriver: chrome on WINDOWS (56bbff63e2259d2412fb9bdf8b9bd822)] -> xpath: //select[@id='makes']]
+2021-07-06 18:07:289 INFO  NewUsedCarSearchPage :39 - Select Model of the Car : [[ChromeDriver: chrome on WINDOWS (56bbff63e2259d2412fb9bdf8b9bd822)] -> xpath: //select[@id='models']]
+2021-07-06 18:07:678 INFO  NewUsedCarSearchPage :44 - Select Location  : [[ChromeDriver: chrome on WINDOWS (56bbff63e2259d2412fb9bdf8b9bd822)] -> xpath: //select[@id='locations']]
+2021-07-06 18:07:58 INFO  NewUsedCarSearchPage :49 - Select Price(Max) : [[ChromeDriver: chrome on WINDOWS (56bbff63e2259d2412fb9bdf8b9bd822)] -> xpath: //select[@id='priceTo']]
+2021-07-06 18:07:536 INFO  NewUsedCarSearchPage :53 - Click on, Find My Next Car button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-07-06 18:07:578 INFO  AllNewandUsedCars :19 - Verify Text : [[ChromeDriver: chrome on WINDOWS (56bbff63e2259d2412fb9bdf8b9bd822)] -> xpath: //h1[@class = 'listing-search-title']]
+2021-07-06 18:07:592 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-06 18:07:544 INFO  HomePage :26 - MouseHover to buy+sell tab : [[ChromeDriver: chrome on WINDOWS (124ffa6fa32712eb074e60cbf0818f67)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-07-06 18:07:398 INFO  HomePage :30 - Click to SearchCars : [[ChromeDriver: chrome on WINDOWS (124ffa6fa32712eb074e60cbf0818f67)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-07-06 18:07:330 INFO  NewUsedCarSearchPage :28 - Verify Text, New & Used Car Search : [[ChromeDriver: chrome on WINDOWS (124ffa6fa32712eb074e60cbf0818f67)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2021-07-06 18:07:783 INFO  NewUsedCarSearchPage :34 - Select Make of the Car : [[ChromeDriver: chrome on WINDOWS (124ffa6fa32712eb074e60cbf0818f67)] -> xpath: //select[@id='makes']]
+2021-07-06 18:07:193 INFO  NewUsedCarSearchPage :39 - Select Model of the Car : [[ChromeDriver: chrome on WINDOWS (124ffa6fa32712eb074e60cbf0818f67)] -> xpath: //select[@id='models']]
+2021-07-06 18:07:616 INFO  NewUsedCarSearchPage :44 - Select Location  : [[ChromeDriver: chrome on WINDOWS (124ffa6fa32712eb074e60cbf0818f67)] -> xpath: //select[@id='locations']]
+2021-07-06 18:07:46 INFO  NewUsedCarSearchPage :49 - Select Price(Max) : [[ChromeDriver: chrome on WINDOWS (124ffa6fa32712eb074e60cbf0818f67)] -> xpath: //select[@id='priceTo']]
+2021-07-06 18:07:755 INFO  NewUsedCarSearchPage :53 - Click on, Find My Next Car button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-07-06 18:07:825 INFO  AllNewandUsedCars :19 - Verify Text : [[ChromeDriver: chrome on WINDOWS (124ffa6fa32712eb074e60cbf0818f67)] -> xpath: //h1[@class = 'listing-search-title']]
+2021-07-06 18:07:313 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-06 18:07:04 INFO  HomePage :26 - MouseHover to buy+sell tab : [[ChromeDriver: chrome on WINDOWS (a6ebecbedb096643c97474fc1282994b)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-07-06 18:07:124 INFO  HomePage :30 - Click to SearchCars : [[ChromeDriver: chrome on WINDOWS (a6ebecbedb096643c97474fc1282994b)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-07-06 18:07:155 INFO  NewUsedCarSearchPage :28 - Verify Text, New & Used Car Search : [[ChromeDriver: chrome on WINDOWS (a6ebecbedb096643c97474fc1282994b)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2021-07-06 18:07:661 INFO  NewUsedCarSearchPage :34 - Select Make of the Car : [[ChromeDriver: chrome on WINDOWS (a6ebecbedb096643c97474fc1282994b)] -> xpath: //select[@id='makes']]
+2021-07-06 18:07:82 INFO  NewUsedCarSearchPage :39 - Select Model of the Car : [[ChromeDriver: chrome on WINDOWS (a6ebecbedb096643c97474fc1282994b)] -> xpath: //select[@id='models']]
+2021-07-06 18:07:476 INFO  NewUsedCarSearchPage :44 - Select Location  : [[ChromeDriver: chrome on WINDOWS (a6ebecbedb096643c97474fc1282994b)] -> xpath: //select[@id='locations']]
+2021-07-06 18:07:870 INFO  NewUsedCarSearchPage :49 - Select Price(Max) : [[ChromeDriver: chrome on WINDOWS (a6ebecbedb096643c97474fc1282994b)] -> xpath: //select[@id='priceTo']]
+2021-07-06 18:07:653 INFO  NewUsedCarSearchPage :53 - Click on, Find My Next Car button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-07-06 18:07:706 INFO  AllNewandUsedCars :19 - Verify Text : [[ChromeDriver: chrome on WINDOWS (a6ebecbedb096643c97474fc1282994b)] -> xpath: //h1[@class = 'listing-search-title']]
